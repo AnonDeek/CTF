@@ -36,7 +36,7 @@ ok if we try enter this path , will can't becase just user-agent `joker99` could
 But even if we change user-agen, There will be no response, and the simple reason is that there is a trap
 <br>![alt text](https://github.com/AnonDeek/CTF/blob/master/HC-CTF/Web/coke-3.png "cock-3")<br>
 just remove port 200 and change it to 80
-![alt text](https://github.com/AnonDeek/CTF/blob/master/HC-CTF/Web/coke-4.png "cock-4")<br><br>
+<br>
 ![alt text](https://github.com/AnonDeek/CTF/blob/master/HC-CTF/Web/coke-5.png "cock-5")<br><br>
 <br><br>
 ![alt text](https://github.com/AnonDeek/CTF/blob/master/HC-CTF/Web/coke-6.png "cock-6")<br><br>
